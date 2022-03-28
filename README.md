@@ -1,7 +1,7 @@
  ## Hi there 🙏
  
  <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/cybe1.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="assets/cyb1.gif">
 </div>
  
  
