@@ -42,6 +42,9 @@ ___I dream to create something great!!!___
 </br>
 <p align="center">
   
+ <img src="svg/html.svg" alt="html" width="120" hight="50">
+ <img src="svg/css3.svg" alt="css" width="120" hight="50">
+ 
 </p>
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
