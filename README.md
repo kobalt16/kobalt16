@@ -42,20 +42,20 @@ ___I dream to create something great!!!___
 </br>
 <p align="center">
   
- <img src="svg/html.svg" alt="html" width="120" hight="50">
- <img src="svg/css3.svg" alt="css" width="120" hight="50">
- <img src="svg/sass.svg" alt="sass" width="120" hight="50">
- <img src="svg/js.svg" alt="js" width="120" hight="50">
- <img src="svg/typescript.svg" alt="typescript" width="120" hight="50">
+ <img src="svg/html.svg" alt="html" hight="50">
+ <img src="svg/css3.svg" alt="css"  hight="50">
+ <img src="svg/sass.svg" alt="sass" hight="50">
+ <img src="svg/js.svg" alt="js" hight="50">
+ <img src="svg/typescript.svg" alt="typescript"  hight="50">
  </br>
- <img src="svg/nodejs.svg" alt="nodejs" width="120" hight="50">
- <img src="svg/npm.svg" alt="npm" width="120" hight="50">
- <img src="svg/react.svg" alt="react" width="120" hight="50">
- <img src="svg/vue.svg" alt="vue" width="120" hight="50">
+ <img src="svg/nodejs.svg" alt="nodejs" hight="50">
+ <img src="svg/npm.svg" alt="npm"  hight="50">
+ <img src="svg/react.svg" alt="react" hight="50">
+ <img src="svg/vue.svg" alt="vue" hight="50">
  </br>
- <img src="svg/html.svg" alt="html" width="120" hight="50">
- <img src="svg/css3.svg" alt="css" width="120" hight="50">
- <img src="svg/html.svg" alt="html" width="120" hight="50">
+ <img src="svg/visualstudio_code.svg" alt="vscode" hight="50">
+ <img src="svg/figma.svg" alt="figma" hight="50">
+ <img src="svg/chrome.svg" alt="chrome" hight="50">
  </br>
  
 </p>
