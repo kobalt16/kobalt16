@@ -53,7 +53,7 @@ ___I dream to create something great!!!___
  <img src="svg/react.svg" alt="react" hight="60">
  <img src="svg/vue.svg" alt="vue" hight="60">
  </br>
- <img src="svg/visualstudio_code.svg" alt="vscode" hight="60">
+ <img src="svg/vscode.svg" alt="vscode" hight="60">
  <img src="svg/figma.svg" alt="figma" hight="60">
  <img src="svg/chrome.svg" alt="chrome" hight="60">
  </br>
