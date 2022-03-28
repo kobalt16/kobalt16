@@ -40,6 +40,7 @@ ___I dream to create something great!!!___
 
 ## Languages & Tools 👨‍💻 🛠:
 </br>
+</br>
 <p align="center">
   
  <img src="svg/html.svg" alt="html" hight="60">
@@ -69,10 +70,14 @@ ___I dream to create something great!!!___
 ## How to reach me 📫:
 </br>
 
-<p align="right"> 
+<img hight="400" width="600" alt="GIF" align="right" src="assets/cyb3.gif">
+<p align="left"> 
  <a href="mailto: ruskobalt16@gmail.com"><img src="icon/gmail2.svg" alt="ruskobalt16@gmail.com" hight="60" margin-right: "16px"></a>
+ </br>
  <a href="https://vk.com/id_elifas" target="_blank"> <img src="icon/vk.svg" alt="VK"  hight="60"></a>
+ </br>
  <a href="https://www.facebook.com/profile.php?id=100006491041883" target="_blank"><img src="icon/facebook.svg" alt="fb"  hight="60"></a>
+ </br>
  <a href="https://www.linkedin.com/in/ruslan-sagyndykov-28a7a122a" target="_blank"><img src="icon/lnkdn.svg" alt="linkedin"  hight="60"></a>
 </p> 
 
