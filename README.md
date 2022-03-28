@@ -1,4 +1,6 @@
-<!-- ## Hi there 👋
+ ## Hi there 👋
+ [![](guittv.gif)]
+<!--
 ### I'm Ruslan, novice frontend developer,
 ### ___I dream to create something great!!!___ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=6000&color=F7B60E&center=true&vCenter=true&width=600&height=150&lines=I'm+Ruslan%2C+a+novice+frontend+developer+in+the+two+universes.)](https://git.io/typing-svg)
