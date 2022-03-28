@@ -1,5 +1,5 @@
  ## Hi there 👋
-[![](guittv.gif)]
+
 <!--
 ### I'm Ruslan, novice frontend developer,
 ### ___I dream to create something great!!!___ -->
