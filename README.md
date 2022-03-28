@@ -45,7 +45,7 @@ ___I dream to create something great!!!___
  <img src="svg/html.svg" alt="html" hight="50">
  <img src="svg/css3.svg" alt="css"  hight="50">
  <img src="svg/sass.svg" alt="sass" hight="50">
- <img src="svg/js.svg" alt="js" hight="50">
+ <img src="svg/js.svg" alt="js" hight="50"> 
  
  </br>
  <img src="svg/nodejs.svg" alt="nodejs" hight="50">
