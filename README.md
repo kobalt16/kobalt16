@@ -1,9 +1,15 @@
  ## Hi there 🙏
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=7000&color=F7AA00&center=true&width=700&lines=+I+am+the+Lexx.+I+am+the+most+powerful+weapon+of+destruction+in+the+two+universes.)](https://git.io/typing-svg)
+ 
+ <div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="assets/cybe1.gif">
+</div>
+ 
+ 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=7000&color=F7AA00&center=true&width=700&lines=+I+am+the+Lexx.+I+am+the+most+powerful+weapon+of+destruction+in+the+two+universes.)](https://git.io/typing-svg)
 <div align="center">
 <img hight="200" width="500" alt="GIF" align="center" src="assets/lexx.gif">
 </div>
-
+ -->
 
 ## About ME 👨‍💻:
 
