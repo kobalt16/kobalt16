@@ -1,7 +1,11 @@
  ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=6000&color=F7B60E&center=true&vCenter=true&width=600&height=150&lines=I'm+Ruslan%2C+a+novice+frontend+developer+in+the+two+universes.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=7000&color=F7AA00&center=true&width=700&lines=+I+am+the+Lexx.+I+am+the+most+powerful+weapon+of+destruction+in+the+two+universes.)](https://git.io/typing-svg)
+<div align="center">
+<img hight="200" width="500" alt="GIF" align="center" src="assets/lexx.gif">
+</div>
 
-## Aboout me 🧐:
+
+## Aboout me 👨‍💻:
 
 ### I'm Ruslan
 
