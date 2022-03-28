@@ -44,6 +44,19 @@ ___I dream to create something great!!!___
   
  <img src="svg/html.svg" alt="html" width="120" hight="50">
  <img src="svg/css3.svg" alt="css" width="120" hight="50">
+ <img src="svg/sass.svg" alt="sass" width="120" hight="50">
+ <img src="svg/js.svg" alt="js" width="120" hight="50">
+ <img src="svg/typescript.svg" alt="typescript" width="120" hight="50">
+ </br>
+ <img src="svg/nodejs.svg" alt="nodejs" width="120" hight="50">
+ <img src="svg/npm.svg" alt="npm" width="120" hight="50">
+ <img src="svg/react.svg" alt="react" width="120" hight="50">
+ <img src="svg/vue.svg" alt="vue" width="120" hight="50">
+ </br>
+ <img src="svg/html.svg" alt="html" width="120" hight="50">
+ <img src="svg/css3.svg" alt="css" width="120" hight="50">
+ <img src="svg/html.svg" alt="html" width="120" hight="50">
+ </br>
  
 </p>
 
