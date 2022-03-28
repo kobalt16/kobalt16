@@ -1,7 +1,7 @@
  ## Hi there 🙏
  
  <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/cyb1.gif">
+<img hight="304" width="540" alt="GIF" align="center" src="assets/cyb2.gif">
 </div>
  
  
@@ -11,7 +11,7 @@
 </div>
  -->
 
-## About ME 🌌:
+## Whoami 🌌:
 
 ### - I'm Ruslan, Web Development Enthusiast.
 ___I dream to create something great!!!___
@@ -62,6 +62,7 @@ ___I dream to create something great!!!___
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
+## 📫 How to reach me:
 
 
 
