@@ -17,13 +17,14 @@
 ___I dream to create something great!!!___
 
 <img hight="400" width="400" alt="GIF" align="right" src="assets/guittv.gif">
+</br>
 
-### - ✒️ Learning:
+###  ✒️ Learning:
 - 🚀 Web Design
 - 🚀 Layout
 - 🚀 Frontend Development
 
-### - 🎨 Hobbies :
+###  🎨 Hobbies :
 - 🛸 Historical & philosophical books
 - 🛸 Watching Movies
 - 🛸 Play Guitar
@@ -39,7 +40,9 @@ ___I dream to create something great!!!___
 
 ## Languages & Tools 👨‍💻 🛠:
 </br>
-
+<p align="center">
+  
+</p>
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
