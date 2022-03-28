@@ -62,7 +62,16 @@ ___I dream to create something great!!!___
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-## 📫 How to reach me:
+## How to reach me 📫:
+
+<p align="center">
+ 
+ <a href="mailto: ruskobalt16@gmail.com"><img src="icon/gmail.svg" alt="ruskobalt16@gmail.com" hight="60"></a>
+ <a href="https://vk.com/id_elifas" target="_blank"> <img src="icon/vk.svg" alt="VK"  hight="60"></a>
+ <a href="https://www.facebook.com/profile.php?id=100006491041883" target="_blank"><img src="icon/facebook.svg" alt="fb"  hight="60"></a>
+ <a href="https://www.linkedin.com/in/ruslan-sagyndykov-28a7a122a" target="_blank"><img src="icon/linkedin.svg" alt="linkedin"  hight="60"></a>
+ 
+</p>
 
 
 
