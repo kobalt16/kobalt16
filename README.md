@@ -11,11 +11,12 @@
 </div>
  -->
 
-## About ME 👨‍💻:
+## About ME 🌌:
 
 ### - I'm Ruslan, Web Development Enthusiast.
+___I dream to create something great!!!___
 
-<img hight="400" width="500" alt="GIF" align="right" src="assets/guittv.gif">
+<img hight="400" width="400" alt="GIF" align="right" src="assets/guittv.gif">
 
 ### - ✒️ Learning:
 - 🚀 Web Design
@@ -23,11 +24,40 @@
 - 🚀 Frontend Development
 
 ### - 🎨 Hobbies :
-- 
-<!--
-### I'm Ruslan, novice frontend developer,
-### ___I dream to create something great!!!___ -->
+- 🛸 Historical & philosophical books
+- 🛸 Watching Movies
+- 🛸 Play Guitar
+- 🛸 Sailing
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+## Languages & Tools 👨‍💻 🛠:
+</br>
+
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+👨‍
 
 
 
