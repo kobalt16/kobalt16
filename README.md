@@ -24,11 +24,11 @@ ___I dream to create something great!!!___
 - 🚀 Layout
 - 🚀 Frontend Development
 
-###  🎨 Hobbies :
-- 🛸 Historical & philosophical books
-- 🛸 Watching Movies
-- 🛸 Play Guitar
-- 🛸 Sailing
+###  🎨 Hobbies : 
+- 📚 Historical & philosophical books
+- 🎥 Watching Movies
+- 🎸 Play Guitar
+- ⛵ Sailing
 
 </br>
 </br>
