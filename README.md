@@ -72,13 +72,13 @@ ___I dream to create something great!!!___
 
 <img hight="400" width="600" alt="GIF" align="right" src="assets/cyb3.gif">
 <p align="left"> 
- <a href="mailto: ruskobalt16@gmail.com"><img src="icon/gmail1.svg" alt="ruskobalt16@gmail.com" hight="60" margin-right: "16px"></a>
+ <a href="mailto: ruskobalt16@gmail.com"><img src="svg/mail3.svg" alt="ruskobalt16@gmail.com" hight="60" margin-right: "16px"></a>
  </br>
- <a href="https://vk.com/id_elifas" target="_blank"> <img src="icon/vk1.svg" alt="VK"  hight="60"></a>
+ <a href="https://vk.com/id_elifas" target="_blank"> <img src="svg/vk3.svg" alt="VK"  hight="60"></a>
  </br>
- <a href="https://www.facebook.com/profile.php?id=100006491041883" target="_blank"><img src="icon/facebook1.svg" alt="fb"  hight="60"></a>
+ <a href="https://www.facebook.com/profile.php?id=100006491041883" target="_blank"><img src="svg/fb3.svg" alt="fb"  hight="60"></a>
  </br>
- <a href="https://www.linkedin.com/in/ruslan-sagyndykov-28a7a122a" target="_blank"><img src="icon/linkdn1.svg" alt="linkedin"  hight="60"></a>
+ <a href="https://www.linkedin.com/in/ruslan-sagyndykov-28a7a122a" target="_blank"><img src="svg/lnkdn3.svg" alt="linkedin"  hight="60"></a>
 </p> 
 
 
