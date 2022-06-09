@@ -28,7 +28,7 @@ ___I dream to create something great!!!___
 - 📚 Historical & philosophical books
 - 🎥 Watching Movies
 - 🎸 Play Guitar
-- 🐕‍🦺 Dog training
+- 🐕‍ Dog training
 - ⛵ Sailing
 
 </br>
