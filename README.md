@@ -22,7 +22,7 @@ ___I dream to create something great!!!___
 ###  ✒️ Learning:
 - 🚀 Web Design
 - 🚀 Layout
-- 🚀 UI/UX
+- 🚀 UI / UX
 - 🚀 Frontend Development
 
 ###  🎨 Hobbies : 
