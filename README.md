@@ -20,6 +20,7 @@ ___I dream to create something great!!!___
 </br>
 
 ###  ✒️ Learning:
+- 🚀 QA / QC
 - 🚀 Web Design
 - 🚀 Layout
 - 🚀 UI / UX
