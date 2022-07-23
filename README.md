@@ -13,7 +13,7 @@
 
 ## Whoami 🌌:
 
-### - I'm Ruslan, Web Development Enthusiast.
+### - I'm Ruslan, Web Development & QA Enthusiast.
 ___I dream to create something great!!!___
 
 <img hight="400" width="400" alt="GIF" align="right" src="assets/guittv.gif">
