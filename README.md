@@ -22,7 +22,6 @@ ___I dream to create something great!!!___
 ###  ✒️ Learning:
 - 🚀 QA / QC
 - 🚀 Web Design
-- 🚀 Layout
 - 🚀 UI / UX
 - 🚀 Frontend Development
 
@@ -45,20 +44,24 @@ ___I dream to create something great!!!___
 </br>
 </br>
 <p align="center">
-  
+<!--  <img src="svg/sass.svg" alt="sass" hight="60"> -->
+<!--  <img src="svg/ts.svg" alt="ts" hight="60">  -->
  <img src="svg/html.svg" alt="html" hight="60">
  <img src="svg/css3.svg" alt="css"  hight="60">
- <img src="svg/sass.svg" alt="sass" hight="60">
  <img src="svg/js.svg" alt="js" hight="60"> 
- <img src="svg/ts.svg" alt="ts" hight="60"> 
- </br>
- <img src="svg/nodejs.svg" alt="nodejs" hight="60">
- <img src="svg/react.svg" alt="react" hight="60">
- <img src="svg/vue.svg" alt="vue" hight="60">
- <img src="svg/gulp.svg" alt="gulp"  hight="60">
- </br>
+ <img src="svg/sql.svg" alt="sql" hight="60">
  <img src="svg/vscode.svg" alt="vscode" hight="60">
+ </br>
+<!--  <img src="svg/nodejs.svg" alt="nodejs" hight="60"> -->
+<!--  <img src="svg/react.svg" alt="react" hight="60"> -->
+<!--  <img src="svg/vue.svg" alt="vue" hight="60"> -->
+<!--  <img src="svg/gulp.svg" alt="gulp"  hight="60"> -->
+ </br>
+ <img src="svg/jira.svg" alt="jira" hight="60">
+ <img src="svg/postman.svg" alt="postman" hight="60">
  <img src="svg/figma.svg" alt="figma" hight="60">
+ <img src="svg/fedora.svg" alt="fedora" hight="60">
+ <img src="svg/git.svg" alt="git" hight="60">
  <img src="svg/chrome.svg" alt="chrome" hight="60">
  </br>
  
