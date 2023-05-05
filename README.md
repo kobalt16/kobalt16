@@ -13,17 +13,18 @@
 
 ## Whoami 🌌:
 
-### - I'm Ruslan, Web Development & QA Enthusiast.
-___I dream to create something great!!!___
+### - I'm Ruslan, Data Science Enthusiast.
+<!-- ___'''I dream to create something great!!!'''___ -->
+___'''...not to imitate, but to conform!...'''___
 
 <img hight="400" width="400" alt="GIF" align="right" src="assets/guittv.gif">
 </br>
 
 ###  ✒️ Learning:
+- 🚀 Data Science
+- 🚀 ML & DL
+- 🚀 Math
 - 🚀 QA / QC
-- 🚀 Web Design
-- 🚀 UI / UX
-- 🚀 Frontend Development
 
 ###  🎨 Hobbies : 
 - 📚 Historical & philosophical books
