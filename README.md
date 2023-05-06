@@ -47,6 +47,14 @@ ___'''...not to imitate, but to conform!...'''___
 <p align="center">
 <!--  <img src="svg/sass.svg" alt="sass" hight="60"> -->
 <!--  <img src="svg/ts.svg" alt="ts" hight="60">  -->
+
+<img src="svg/docker.svg" alt="docker" hight="60">
+<img src="svg/firefox.svg" alt="firefox" hight="60">
+<img src="svg/pycharm.svg" alt="pycharm" hight="60">
+<img src="svg/python.svg" alt="python" hight="60">
+<img src="svg/ai.svg" alt="ai" hight="60">
+<img src="svg/datascience.svg" alt="datascience" hight="60">
+
  <img src="svg/html.svg" alt="html" hight="60">
  <img src="svg/css3.svg" alt="css"  hight="60">
  <img src="svg/js.svg" alt="js" hight="60"> 
