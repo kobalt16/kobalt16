@@ -23,8 +23,8 @@ ___'''...not to imitate, but to conform!...'''___
 ###  ✒️ Learning:
 - 🚀 Data Science
 - 🚀 ML & DL
-- 🚀 Math
-- 🚀 QA / QC
+- 🚀 Computer Vision
+- 🚀 NLP
 
 ###  🎨 Hobbies : 
 - 📚 Historical & philosophical books
