@@ -49,37 +49,38 @@ ___'''...not to imitate, but to conform!...'''___
 <!--  <img src="svg/ts.svg" alt="ts" hight="60">  -->
 
 <img src="svg/docker.svg" alt="docker" hight="60">
+ </br>
 <img src="svg/firefox.svg" alt="firefox" hight="60">
 <img src="svg/pycharm.svg" alt="pycharm" hight="60">
+ </br>
+
 <img src="svg/python.svg" alt="python" hight="60">
 <img src="svg/ai.svg" alt="ai" hight="60">
 <img src="svg/datascience.svg" alt="datascience" hight="60">
-
- <img src="svg/html.svg" alt="html" hight="60">
- <img src="svg/css3.svg" alt="css"  hight="60">
- <img src="svg/js.svg" alt="js" hight="60"> 
- <img src="svg/sql.svg" alt="sql" hight="60">
- <img src="svg/vscode.svg" alt="vscode" hight="60">
  </br>
+
+<img src="svg/sql.svg" alt="sql" hight="60">
+<img src="svg/fedora.svg" alt="fedora" hight="60">
+<img src="svg/git.svg" alt="git" hight="60">
+<img src="svg/chrome.svg" alt="chrome" hight="60">
+<!--  <img src="svg/html.svg" alt="html" hight="60"> -->
+<!--  <img src="svg/css3.svg" alt="css"  hight="60"> -->
+<!--  <img src="svg/js.svg" alt="js" hight="60">  -->
+<!--  <img src="svg/vscode.svg" alt="vscode" hight="60"> -->
+ 
 <!--  <img src="svg/nodejs.svg" alt="nodejs" hight="60"> -->
 <!--  <img src="svg/react.svg" alt="react" hight="60"> -->
 <!--  <img src="svg/vue.svg" alt="vue" hight="60"> -->
 <!--  <img src="svg/gulp.svg" alt="gulp"  hight="60"> -->
- </br>
- <img src="svg/jira.svg" alt="jira" hight="60">
- <img src="svg/postman.svg" alt="postman" hight="60">
- <img src="svg/figma.svg" alt="figma" hight="60">
- <img src="svg/fedora.svg" alt="fedora" hight="60">
- <img src="svg/git.svg" alt="git" hight="60">
- <img src="svg/chrome.svg" alt="chrome" hight="60">
- </br>
+ 
+<!--  <img src="svg/jira.svg" alt="jira" hight="60"> -->
+<!--  <img src="svg/postman.svg" alt="postman" hight="60"> -->
+<!--  <img src="svg/figma.svg" alt="figma" hight="60"> -->
  
 </p>
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-</br>
-</br>
-</br>
+
 
 
 ## How to reach me 📫:
