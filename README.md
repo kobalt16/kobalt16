@@ -21,10 +21,11 @@ ___'''...not to imitate, but to conform!...'''___
 </br>
 
 ###  ✒️ Learning:
-- 🚀 Data Science
-- 🚀 ML & DL
-- 🚀 Computer Vision
+- 🚀 Data analysis
+- 🚀 ML
+- 🚀 Deep Learning
 - 🚀 NLP
+- 🚀 Computer Vision
 
 ###  🎨 Hobbies : 
 - 📚 Historical & philosophical books
